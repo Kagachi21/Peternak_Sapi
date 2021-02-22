@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400780422581",
+    "firebase_url": "https://sapiku-88084.firebaseio.com",
+    "project_id": "sapiku-88084",
+    "storage_bucket": "sapiku-88084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400780422581:android:abe8d5d8681c0d83de7dfc",
+        "android_client_info": {
+          "package_name": "com.example.peternaksapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400780422581-insi5lhht1imoesa7obeg700a62d1fvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-d97TV-25KFcsgefu2-YT7XdOkgtTRvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400780422581-insi5lhht1imoesa7obeg700a62d1fvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

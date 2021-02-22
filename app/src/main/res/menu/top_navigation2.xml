@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/pemilik"
+        android:icon="@drawable/ic_cow"
+        android:title="Daftar Sapi" />
+
+    <item android:id="@+id/peternak"
+        android:icon="@drawable/ic_farmer"
+        android:title="Daftar Peternak Sapi" />
+</menu>

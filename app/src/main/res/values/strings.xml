@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PeternakSapi</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="nik">NIK</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="telp">Nomor Telpon</string>
+    <string name="alamat">Alamat</string>
+    <string name="konfirm">Konfirmasi Password</string>
+    <string name="mengembala">Berapa Lama Mengembala Sapi ?</string>
+    <string name="umur">Umur</string>
+</resources>
